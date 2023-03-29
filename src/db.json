@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "login": "Yauhen",
+      "pass": "123",
+      "id": 1,
+      "email": "qwe@mail.ru",
+      "categories": [
+        {
+          "id": 12334,
+          "categoryName": "Front-End",
+          "tasks": [
+            {
+              "taskTitle": "",
+              "id": 123343,
+              "isComplete": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
